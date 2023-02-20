@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "Hpmework20.02.23\RefOut.csproj", "{B8E15FE6-E943-4DEB-95AD-046E4518CE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E15FE6-E943-4DEB-95AD-046E4518CE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E15FE6-E943-4DEB-95AD-046E4518CE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E15FE6-E943-4DEB-95AD-046E4518CE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E15FE6-E943-4DEB-95AD-046E4518CE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697CC9AC-5430-463F-9474-319EABA2A051}
+	EndGlobalSection
+EndGlobal
